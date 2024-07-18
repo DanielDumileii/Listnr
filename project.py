@@ -10,7 +10,7 @@ text_bg_color = "#FFFECC"  # Background color for text areas
 text_fg_color = "black"  # Foreground color for text
 
 # Replace with your actual OpenAI API key
-api_key = ''
+
 
 # Create the main window
 root = tk.Tk()
@@ -161,7 +161,6 @@ root.mainloop()
 # text_fg_color = "black"  # Foreground color for text
 
 # # Replace with your actual OpenAI API key
-# api_key = ''
 
 # # Initialize the OpenAI client
 # client = OpenAI(api_key=api_key)
